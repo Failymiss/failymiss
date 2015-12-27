@@ -1,0 +1,34 @@
+{
+  "name": "failymiss",
+  "version": "0.0.1",
+  "description": "this is my first node web app",
+  "keywords": [
+    "koa",
+    "react",
+    "mongoose",
+    "mocha",
+    "webpack",
+    "mocha",
+    "passport",
+    "react-bootstrap",
+    "react-router",
+    "example"
+  ],
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dozoisch/koa-react-full-example"
+  },
+  "scripts": {},
+  "author": "failymiss<jiangwei3457@163.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-uglify": "^1.5.1",
+    "koa": "^1.1.2"
+  }
+}
